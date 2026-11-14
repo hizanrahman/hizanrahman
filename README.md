@@ -1,4 +1,15 @@
 
+
+
+---
+
+### `01 / whoami`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
+       width="280" alt="Animated multitasking developer" />
+</p>
+
+
 <p align="center">
   <strong>Developer · Security enthusiast · Founder of DroidSec Community</strong>
 </p>
@@ -13,13 +24,7 @@
   <a href="https://droidsec.vercel.app">DroidSec</a>
 </p>
 
----
 
-### `01 / whoami`
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
-       width="280" alt="Animated multitasking developer" />
-</p>
 Hey, I'm **Hizan**. I build web applications and explore how the systems behind them work: the interface, the API, the network, and, lately, the smart contract.
 
 My work spans **React and Node.js applications**, **hands-on security labs**, and **Ethereum experiments**. I also founded **[DroidSec Community](https://droidsec.vercel.app)**, a space for security enthusiasts to learn and collaborate.
