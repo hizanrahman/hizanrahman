@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/hizanrahman. Keep assets/banner-helvetica.png beside this file in assets/. -->
+<!-- Keep assets/banner-helvetica.png in your profile repository. -->
 
 <p align="center">
   <img src="./assets/banner-helvetica.png" width="100%" alt="Hizan Rahman — Build. Inspect. Repeat. Developer and security enthusiast." />
@@ -28,48 +28,27 @@ My work spans **React and Node.js applications**, **hands-on security labs**, an
 
 > Build something useful. Ask how it could break. Come back with a better version.
 
-### `02 / selected builds`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 &nbsp; Chain Note</h3>
-      <p><strong>A message board with an onchain memory.</strong></p>
-      <p>A decentralized message board on Ethereum Sepolia. Connect a wallet, publish a note, and track its author, revision, and transaction status.</p>
-      <p><code>Solidity</code> <code>ethers.js</code> <code>JavaScript</code> <code>Vite</code></p>
-      <p><a href="https://github.com/hizanrahman/chain-note-dapp">Explore the code ↗</a> &nbsp; · &nbsp; <a href="https://sepolia.etherscan.io/address/0x02268EC106FC5bec024b30e0Ad2bD6f295aB771b">Sepolia contract ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 &nbsp; PMI AudioBook</h3>
-      <p><strong>From a book library to the play button.</strong></p>
-      <p>A MERN audiobook platform with chapter playback, book and audio uploads, authentication, and role-based administration.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-      <p><a href="https://github.com/hizanrahman/PMI-AudioBook-TEST">Explore the code ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 &nbsp; IEEE IAS · CEK</h3>
-      <p><strong>A digital home for a student chapter.</strong></p>
-      <p>A website for the IEEE Industry Applications Society chapter at College of Engineering Karunagappally, with activities, achievements, and team pages.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://github.com/hizanrahman/ieee-cek-ias-chapter">Explore the code ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 &nbsp; Security Field Notes</h3>
-      <p><strong>Follow the packets. Understand the system.</strong></p>
-      <p>Hands-on exercises from my Elevate Labs internship: network discovery, traffic analysis, vulnerability scanning, and security fundamentals.</p>
-      <p><code>Nmap</code> <code>Wireshark</code> <code>Nessus</code></p>
-      <p><a href="https://github.com/hizanrahman/Elevate_Labs_Internship">Read the lab notes ↗</a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <a href="https://github.com/hizanrahman?tab=repositories">Browse the rest of the workbench →</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
+       width="280" alt="Animated multitasking developer" />
 </p>
 
-### `03 / tools on the bench`
+### `02 / tools on the bench`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
+       width="65" alt="JavaScript" title="JavaScript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
+       width="65" alt="React" title="React" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
+       width="65" alt="Node.js" title="Node.js" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
+       width="65" alt="Python" title="Python" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
+       width="65" alt="Git" title="Git" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
+       width="65" alt="GitHub" title="GitHub" />
+</p>
 
 | Area | Tools I've worked with |
 | :--- | :--- |
@@ -80,20 +59,21 @@ My work spans **React and Node.js applications**, **hands-on security labs**, an
 | **Security labs** | Nmap · Wireshark · Nessus |
 | **Build & delivery** | Git · GitHub Actions · Vite · Vercel |
 
-<details>
-  <summary><strong>Open the learning archive</strong></summary>
-
-Every project starts somewhere. Mine includes Python exercises, small scripts, and plenty of practice:
-
-- [Python Basics](https://github.com/hizanrahman/Python-Basics) — foundational exercises.
-- [ZTM Python coursework](https://github.com/hizanrahman/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie) — code from Andrei Neagoie's course.
-- [Personal portfolio](https://github.com/hizanrahman/portfolio) — a React and TypeScript home for my work.
-
-</details>
-
-### `04 / let's connect`
+### `03 / let's connect`
 
 Have a web project, a security learning idea, or a curious technical problem? Let's talk.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hizanrahman/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+         width="55" alt="Connect with Hizan on LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hizanrahman">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
+         width="55" alt="Visit Hizan's GitHub profile" />
+  </a>
+</p>
 
 **[Say hello by email](mailto:hizanrahman@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/hizanrahman/)** · **[Explore DroidSec](https://droidsec.vercel.app)**
 
@@ -101,4 +81,9 @@ Have a web project, a security learning idea, or a curious technical problem? Le
 
 <p align="center">
   <sub>Curiosity is the starting point. The repository is the work in progress.</sub>
+  <br />
+  <sub>
+    GIF collection:
+    <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Anmol Baranwal</a>
+  </sub>
 </p>
