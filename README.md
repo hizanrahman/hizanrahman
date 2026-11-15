@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-smoky-three-a9j53rkdhh.vercel.app">Portfolio</a>
+  <a href="https://hizanrahman.xyz">Portfolio</a>
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/hizanrahman/">LinkedIn</a>
   &nbsp; / &nbsp;
